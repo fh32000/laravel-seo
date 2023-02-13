@@ -19,6 +19,7 @@
         "php": "^8.0|^8.1",
         "illuminate/contracts": "^8.79|^9.0|^10.0",
         "ralphjsmit/laravel-helpers": "dev-main",
+        "laravel/framework": "^10.0",
         "spatie/laravel-package-tools": "^1.9.2"
     },
     "require-dev": {
